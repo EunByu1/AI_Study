@@ -10,3 +10,5 @@
   - [Initialization](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Initialization.ipynb)
   - [Regularization](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Regularization.ipynb)
   - [Gradient_Checking](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Gradient_Checking.ipynb)
+
+ 
