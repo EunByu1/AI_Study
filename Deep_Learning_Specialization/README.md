@@ -11,4 +11,4 @@
   - [Regularization](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Regularization.ipynb)
   - [Gradient_Checking](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Gradient_Checking.ipynb)
   - [Optimization Methods](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Optimization_methods.ipynb)
-  - [TensorFlow Introduction] coding
+  - [TensorFlow Introduction](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Tensorflow_introduction.ipynb)
