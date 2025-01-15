@@ -17,4 +17,3 @@
 <br></br>
 
 - Convolutional Neural Networks
-  - 
