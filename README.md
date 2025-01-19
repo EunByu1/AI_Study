@@ -3,3 +3,4 @@
   : Fundamentals of Deep Learning
 
 - [Reinforcement Learning]
+  - [Reinforcement Learning from Scratch](https://product.kyobobook.co.kr/detail/S000000555527)
