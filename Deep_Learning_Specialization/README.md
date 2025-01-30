@@ -22,6 +22,6 @@
 <br></br>
 
 - Sequence Models
-  - [Building your Recurrent Neural Network - Step by Step]()
+  - [Building your Recurrent Neural Network - Step by Step](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   - [Dinosaur Island-Character-Level Language Modeling]()
   - [Jazz Improvisation with LSTM]()
