@@ -1,9 +1,4 @@
 ## [Coursera] Deeplearning Specialization
-
-
-<p align="center"><img src="https://github.com/user-attachments/assets/680b1437-48dc-4324-838c-3b0147b72759" width="566"></p>
-<br>
-
 - Neural Networks and Deep Learning
   - [Python_Basics_with_Numpy](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Python_Basics_with_Numpy.ipynb)
   - [Logistic_Regression_with_a_Neural_Network_mindset](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
@@ -33,3 +28,6 @@
 
 - Transformer Network
   - [Transformers Architecture with TensorFlow]()
+<br></br>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/680b1437-48dc-4324-838c-3b0147b72759" width="566"></p>
