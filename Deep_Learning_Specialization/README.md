@@ -29,3 +29,7 @@
 
 - Transformer Network
   - [Transformers Architecture with TensorFlow]()
+
+---
+
+<p align="center"><img src="https://github.com/user-attachments/assets/680b1437-48dc-4324-838c-3b0147b72759" width="800" height="400"></p>
