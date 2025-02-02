@@ -24,4 +24,8 @@
 - Sequence Models
   - [Building your Recurrent Neural Network - Step by Step](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
   - [Dinosaur Island-Character-Level Language Modeling](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Dinosaurus_Island_Character_level_language_model.ipynb)
-  - [Jazz Improvisation with LSTM]()
+  - [Jazz Improvisation with LSTM](https://github.com/EunByu1/AI_Study/blob/main/Deep_Learning_Specialization/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb)
+<br></br>
+
+- Transformer Network
+  - [Transformers Architecture with TensorFlow]()
