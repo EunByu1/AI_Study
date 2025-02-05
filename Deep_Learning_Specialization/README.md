@@ -27,7 +27,7 @@
 <br></br>
 
 - Transformer Network
-  - Transformers Architecture with TensorFlow
+  - Transformers Architecture with TensorFlow <br>
     → Will be uploaded after further study
 <br></br>
 
