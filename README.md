@@ -9,5 +9,3 @@
   : Fundamentals of Math for AI
 
 - (scheduled) CS 285: Reinforcement Learning
-
-- (scheduled) CS 231N: Computer Vision
