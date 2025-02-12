@@ -8,4 +8,4 @@
 - (scheduled) [Coursera] Mathematics for Machine Learning and Data Science Specialization <br>
   : Fundamentals of Math for AI
 
-- (scheduled) CS 285: Reinforcement Learning
+- (start) CS 285: Reinforcement Learning
