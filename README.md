@@ -8,4 +8,4 @@
 - (scheduled) [Coursera] Mathematics for Machine Learning and Data Science Specialization <br>
   : Fundamentals of Math for AI
 
-- (start) CS 285: Reinforcement Learning
+- (start) [CS 285: Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
