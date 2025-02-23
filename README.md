@@ -10,4 +10,4 @@
 
 - (In Progress) [CS 285: Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-- (In Progress) RLfrombasics
+- (In Progress) RL from basics
