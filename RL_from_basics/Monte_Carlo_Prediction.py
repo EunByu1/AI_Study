@@ -73,6 +73,7 @@ class Agent():
 
 
 def main():
+    # MC 
     env = GridWorld()
     agent = Agent()
     data = [[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
