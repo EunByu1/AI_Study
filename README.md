@@ -9,7 +9,8 @@
   : Fundamentals of Math for AI
 
 - (In Progress) [CS 285: Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) <br>
-   : [Intermediate or Advanced] Fundamentals of Reinforcement Learning 
+   : [Intermediate or Advanced] Fundamentals of Reinforcement Learning <br>
+   → Organizing study contents in Notion
 
 - (In Progress) [RL from basics](https://github.com/EunByu1/AI_Study/tree/main/RL_from_basics) <br>
   : [Basic] Fundamentals of Reinforcement Learning 
