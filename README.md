@@ -15,5 +15,7 @@
 
 
 - (In Progress) [RL from basics](https://github.com/EunByu1/AI_Study/tree/main/RL_from_basics) <br>
-  : [Basic] Fundamentals of Reinforcement Learning 
+  : [Basic] Fundamentals of Reinforcement Learning
+
+- (In Progress) math<br>
 <br>
