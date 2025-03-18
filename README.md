@@ -18,4 +18,4 @@
   : [Basic] Fundamentals of Reinforcement Learning
 
 - (In Progress) Probability statistics learned from Monte Carlo simulation with Python<br>
-<br>
+<br></br>
