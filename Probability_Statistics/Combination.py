@@ -10,7 +10,6 @@ def factorial(x):
     res *= val
   return res 
 
-
 def combination(x, n):
     """
     combination function
@@ -19,7 +18,6 @@ def combination(x, n):
     """
     res = factorial(x)/(factorial(x-n)*factorial(n))
     return res
-
 
 x, n = map(int, input().split())
 print(f"combination {x}C{n}: {combination(x,n)}")
