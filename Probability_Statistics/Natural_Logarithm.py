@@ -1,3 +1,4 @@
+# ================== Method 1 ==================
 def log(x):
   """
   natural logarithm function
@@ -11,3 +12,11 @@ def log(x):
 
 x = int(input())
 print(f"natural logarithm(argument of the logarithm: {x}): {log(x)}")
+# ==============================================
+
+
+# ================== Method 2 ==================
+import math
+
+print(f"natural logarithm(argument of the logarithm: {x}): {math.log(x)}")
+# ==============================================
