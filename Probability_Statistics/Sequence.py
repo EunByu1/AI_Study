@@ -1,8 +1,8 @@
 def seq(start, stop, step):
   """
   sequence function 
-  input : start(시작 값), stop(끝 값), step(한 스텝당 증가 수)
-  output: res(리스트)
+  input  : start(시작 값), stop(끝 값), step(한 스텝당 증가 수)
+  output : res(리스트)
   """
   res = []
   current = start
