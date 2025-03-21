@@ -14,8 +14,8 @@ def factorial(x):
 def combination(x, n):
     """
     combination function
-    input : 정수 x, n
-    output: 출력값: nCx(실수)
+    input  : 정수 x, n
+    output : 출력값: nCx(실수)
     """
     res = factorial(x)/(factorial(x-n)*factorial(n))
     return res
