@@ -1,8 +1,8 @@
 def factorial(x):
   """
   factorial function
-  input : 정수 x
-  output: x!
+  input  : 정수 x
+  output : x!
   """
   x_list = list(range(1, x+1))
   res    = 1
