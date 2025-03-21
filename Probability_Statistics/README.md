@@ -6,3 +6,11 @@
   - [Sequence](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Sequence.py)
   - [Natural Logarithm](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Natural_Logarithm.py)
   - [argmax<sub>x</sub>f(x)](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/argmax_x_f(x).py)
+  <br>
+
+- Probability
+  - [Histogram]
+
+  
+<br>
+<p align="center"><img src="https://github.com/user-attachments/assets/4c39170a-f51f-440a-8e27-e93a0cf59945" width="450"></p>
