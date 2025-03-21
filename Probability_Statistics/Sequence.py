@@ -11,6 +11,5 @@ def seq(start, stop, step):
     current += step
   return res
 
-
 start, stop, step = map(int, input().split())
 print(f"sequence(start:{start},stop:{stop},step:{step}): {seq(start, stop, step)}")
