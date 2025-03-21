@@ -5,4 +5,4 @@
   - [𝑒 (Euler Number)](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Euler_Number.py)
   - [Sequence](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Sequence.py)
   - [Natural Logarithm](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Natural_Logarithm.py)
-  - [Argmax<sub>x</sub>f(x)](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/argmax_x_f(x).py)
+  - [argmax<sub>x</sub>f(x)](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/argmax_x_f(x).py)
