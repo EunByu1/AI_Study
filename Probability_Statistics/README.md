@@ -9,7 +9,9 @@
   <br>
 
 - Probability
-  - [Histogram]
+  - [Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Frequency_Table.py)
+  - [Relative Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Relative_Frequency_Table.py)
+  - [Hisogram](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Hisogram.py)
 
   
 <br>
