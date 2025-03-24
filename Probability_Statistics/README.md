@@ -12,7 +12,8 @@
   - [Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Frequency_Table.py)
   - [Relative Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Relative_Frequency_Table.py)
   - [Histogram.py](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Histogram.py)
+  - [Mean](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Mean.py)
 
-  
+
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/4c39170a-f51f-440a-8e27-e93a0cf59945" width="450"></p>
