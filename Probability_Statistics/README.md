@@ -13,6 +13,8 @@
   - [Relative Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Relative_Frequency_Table.py)
   - [Histogram.py](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Histogram.py)
   - [Mean](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Mean.py)
+  - [Variance]
+  - [Standard Deviation]
 
 
 <br>
