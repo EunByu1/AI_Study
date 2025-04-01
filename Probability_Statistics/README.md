@@ -11,7 +11,7 @@
 - Probability
   - [Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Frequency_Table.py)
   - [Relative Frequency Table](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Relative_Frequency_Table.py)
-  - [Histogram.py](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Histogram.py)
+  - [Histogram](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Histogram.py)
   - [Mean](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Mean.py)
   - [Variance & Standard Deviation](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Variance-Standard_Deviation.py)
   - [Covariance & Correlation Coefficient](https://github.com/EunByu1/AI_Study/blob/main/Probability_Statistics/Covariance-Correlation_Coefficient.py)
