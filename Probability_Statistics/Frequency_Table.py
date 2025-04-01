@@ -7,7 +7,6 @@ def freq_table(data):
   data_freq = {}
   keys = list(set(data))
   keys.sort()
-
   for key in keys:
     data_freq[key] = 0
 
