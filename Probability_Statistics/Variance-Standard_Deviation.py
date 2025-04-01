@@ -41,7 +41,6 @@ x_list = [2, 4, 6, 1, 5, 7, 9, 8, 3]
 print(f"variance(using algorithm): {var(x_list)}")
 # =======================================================
 
-
 # ============= Standard Deviation Algorithm ============
 def std(x_list):
   """
@@ -57,7 +56,6 @@ def std(x_list):
 x_list = [2, 4, 6, 1, 5, 7, 9, 8, 3]
 print(f"standard deviation(using algorithm): {std(x_list)}")
 # =======================================================
-
 
 # ======================== NumPy ========================
 import numpy as np 
