@@ -19,7 +19,6 @@ print(f"data: {x_list}")
 print(f"mean(using algorithm): {mean(x_list)}")
 # =======================================================
 
-
 # ================== Variance Algorithm =================
 def var(x_list):
   """
