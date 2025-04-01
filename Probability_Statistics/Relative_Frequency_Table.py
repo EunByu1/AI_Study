@@ -17,6 +17,7 @@ def freq_table(data):
     
   return data_freq
 # =====================================================
+
 # ============= relative frequency table ==============
 def freq2ratio(dic):
   """
@@ -33,6 +34,7 @@ def freq2ratio(dic):
     
   return res
 # =====================================================
+
 data       = list(map(int, input().split()))
 data_freq  = freq_table(data)
 data_ratio = freq2ratio(data_freq)
