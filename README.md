@@ -9,6 +9,9 @@
    : [Intermediate or Advanced] Fundamentals of Reinforcement Learning <br>
    → [Lecture Notes - Notion Summary](https://www.notion.so/CS-285-10d2861b1c4e80cfb3a6c768d861ea48?pvs=4) <br>
 
+- **(yet)** [[Coursera] Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) <br>
+   : Fundamentals of Reinforcement Learning
+
 - **(In Progress)** [RL from basics](https://github.com/EunByu1/AI_Study/tree/main/RL_from_basics) <br>
   : [Basic] Fundamentals of Reinforcement Learning <br>
   
