@@ -15,7 +15,7 @@
 - **(In Progress)** [RL from basics](https://github.com/EunByu1/AI_Study/tree/main/RL_from_basics) <br>
   : [Basic] Fundamentals of Reinforcement Learning <br>
   
-- **(In Progress)** [Practical Statistics for Data  Scientists](https://github.com/EunByu1/AI_Study/tree/main/RL_from_basics) <br>
+- **(In Progress)** [Probability and statistics](https://eunjiblog.tistory.com/category/Mathematics/%ED%99%95%EB%A5%A0%EA%B3%BC%20%ED%86%B5%EA%B3%84) <br>
   : Fundamentals of Math for AI <br>
   
 - **(yet)** [Coursera] Machine Learning Specialization <br>
